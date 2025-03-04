@@ -9,7 +9,7 @@ library(ggplot2)
 install.packages("tidyr")
 library(tidyr)
 
-color01 <- c('#a6cee3','#1f78b4','#b2df8a','#33a02c')
+color01 <- c("red3",'#1f78b4','#b2df8a','#33a02c')
 color02 <- c('#f1eef6','#d0d1e6','#a6bddb', '#74a9cf', '#2b8cbe', '#045a8d')
 
 
